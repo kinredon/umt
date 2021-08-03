@@ -1,0 +1,11 @@
+cython
+cffi
+opencv-python
+scipy==1.1.0
+msgpack
+easydict
+matplotlib
+pyyaml
+tensorboardX
+imgaug==0.2.9
+prettytable
